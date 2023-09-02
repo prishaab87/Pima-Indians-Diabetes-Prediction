@@ -1,6 +1,6 @@
 # Pima-Indians-Diabetes-Prediction
 This is a basic Exploratory Data Analysis and Model Training of the Pima Indians Diabetes Database. It answers various questions including:
-a) What is the distribution of diabetes status in the dataset? How many individuals are diagnosed with diabetes and how many are not?
+a) <br />What is the distribution of diabetes status in the dataset? How many individuals are diagnosed with diabetes and how many are not?
 
 
 b) Is there any relationship between glucose levels and the presence of diabetes? Can you compare the mean glucose levels for individuals with and without diabetes and determine if there is a significant difference using a hypothesis test?
